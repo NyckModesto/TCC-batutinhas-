@@ -1,0 +1,1 @@
+Sistema completo com login, funcionário, estoque, financeiro e JS atualizado sem localStorage.
